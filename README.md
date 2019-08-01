@@ -8,6 +8,7 @@ The service will output the date in a UNIX or UTC json format.
 
 
 ## Examples
+[https://vagabond-teeth.glitch.me](https://vagabond-teeth.glitch.me])
 
 [https://vagabond-teeth.glitch.me/api/timestamp/2015-12-15](https://vagabond-teeth.glitch.me/api/timestamp/2015-12-15)
 
